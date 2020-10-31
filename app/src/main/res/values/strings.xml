@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">admob</string>
+    <string name="dialog_message">welcom</string>
+    <string name="dialog_title">title</string>
+</resources>
